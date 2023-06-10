@@ -1,0 +1,7 @@
+2023-06-08 12:16:47,234 root DEBUG This is my debug code
+2023-06-08 12:16:47,234 root INFO We are iterating through our list and our local variable is 'i'[1, 2, 3, 4, ['hello', 'a', 13, 292], 'Anurag PAreek', 'L']
+2023-06-08 12:16:47,234 root INFO We are iterating through our list and our local variable is 'i'[1, 2, 3, 4, ['hello', 'a', 13, 292], 'Anurag PAreek', 'L']
+2023-06-08 12:16:47,234 root INFO We are iterating through our list and our local variable is 'i'[1, 2, 3, 4, ['hello', 'a', 13, 292], 'Anurag PAreek', 'L']
+2023-06-08 12:16:47,234 root INFO We are iterating through our list and our local variable is 'i'[1, 2, 3, 4, ['hello', 'a', 13, 292], 'Anurag PAreek', 'L']
+2023-06-08 12:16:47,234 root INFO We are iterating through our list and our local variable is 'i'[1, 2, 3, 4, ['hello', 'a', 13, 292], 'Anurag PAreek', 'L']
+2023-06-08 12:16:47,234 root INFO I am inside if statement and i am trying to check list type

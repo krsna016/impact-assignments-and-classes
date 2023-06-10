@@ -1,0 +1,32 @@
+INFO:root:Hello World
+INFO:root:Hello World
+INFO:root:Hello World
+WARNING:root:It is my warning
+INFO:root:Hello World
+WARNING:root:It is my warning
+ERROR:root:This is my Error
+INFO:root:Hello World
+WARNING:root:It is my warning
+ERROR:root:This is my Error
+CRITICAL:root:It's critical condition
+INFO:root:Hello World
+WARNING:root:It is my warning
+ERROR:root:This is my Error
+CRITICAL:root:It's critical condition
+INFO:root:This is my other Info
+INFO:root:This is my Error message
+CRITICAL:root:This is my critical file
+INFO:root:Hello World
+WARNING:root:It is my warning
+ERROR:root:This is my Error
+CRITICAL:root:It's critical condition
+INFO:root:This is my other Info
+INFO:root:This is my Error message
+CRITICAL:root:This is my critical file
+INFO:root:Hello World
+WARNING:root:It is my warning
+ERROR:root:This is my Error
+CRITICAL:root:It's critical condition
+INFO:root:This is my other Info
+INFO:root:This is my Error message
+CRITICAL:root:This is my critical file
